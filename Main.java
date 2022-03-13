@@ -12,13 +12,13 @@ public class Main {
 
         calc.println.accept(c);
 
-//        int p = calc.pow.apply(8);
-//        calc.println.accept(p);
-//
-//        int aa = calc.abs.apply(-8);
-//        calc.println.accept(aa);
-//
-//        System.out.println(calc.isPositive.test(-9));
+        int p = calc.pow.apply(8);
+        calc.println.accept(p);
+
+        int aa = calc.abs.apply(-8);
+        calc.println.accept(aa);
+
+        System.out.println(calc.isPositive.test(-9));
 
     }
 }
